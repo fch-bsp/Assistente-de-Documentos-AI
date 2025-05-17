@@ -52,8 +52,14 @@ O DocGenius é um assistente de IA que permite:
 ## Para essa versão da aplicação estou utlizando o modelo: gemini-1.5-pro-latest
 
 ![Image](https://github.com/user-attachments/assets/a4719817-b685-4f3e-91b7-528a9091a95f)
+
+## Download de PDF e TXT Multiplos 
 ![Image](https://github.com/user-attachments/assets/03633a9e-6a20-4f44-85f3-1bf78cef2e49)
+
+### Assisntente com respostas inteligêntes e faíl entendimento
 ![Image](https://github.com/user-attachments/assets/acb94c54-dc5a-42a9-af57-ae7ada0b29fd)
+
+### Amostragem da fonte onde Bucou a informação
 ![Image](https://github.com/user-attachments/assets/e66f49f5-558c-4369-a3ae-1849e4decb08)
 
 
