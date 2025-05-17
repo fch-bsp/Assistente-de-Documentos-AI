@@ -47,7 +47,8 @@ O DocGenius é um assistente de IA que permite:
 
 
 ### Uma interface simples e intuitiva que permite interagir com nosso assistente, cujas respostas são assertivas e diretas.
-![Image](https://github.com/user-attachments/assets/a951d18c-6e43-4d01-8d6f-e0693e147aee)
+![Image](https://github.com/user-attachments/assets/03633a9e-6a20-4f44-85f3-1bf78cef2e49)
+
 
 ## Para essa versão da aplicação estou utlizando o modelo: gemini-1.5-pro-latest
 
