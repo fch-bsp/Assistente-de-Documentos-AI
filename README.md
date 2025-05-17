@@ -39,17 +39,23 @@ O DocGenius é um assistente de IA que permite:
 - Modelo gemini-1.5-pro-latest
 - Git instalado
 ### Pagina Inicial:
-![Image](https://github.com/user-attachments/assets/dc25b743-f378-4fcf-8ce7-5e8797c6a44d)
+![Image](https://github.com/user-attachments/assets/06a27d07-5426-48a6-8187-2716be7ed8ec)
+
 
 ### Importa os documentos em  PDF/TXT:
-![Image](https://github.com/user-attachments/assets/cd3cb78a-fc17-458a-9d24-182979d54404)
+![Image](https://github.com/user-attachments/assets/66346cbe-80ea-49c0-87e6-58032ae92525)
+
 
 ### Uma interface simples e intuitiva que permite interagir com nosso assistente, cujas respostas são assertivas e diretas.
 ![Image](https://github.com/user-attachments/assets/a951d18c-6e43-4d01-8d6f-e0693e147aee)
 
 ## Para essa versão da aplicação estou utlizando o modelo: gemini-1.5-pro-latest
 
-![Image](https://github.com/user-attachments/assets/011e6a12-cc94-473a-bda5-6e77ab8784b0)
+![Image](https://github.com/user-attachments/assets/a4719817-b685-4f3e-91b7-528a9091a95f)
+![Image](https://github.com/user-attachments/assets/03633a9e-6a20-4f44-85f3-1bf78cef2e49)
+![Image](https://github.com/user-attachments/assets/acb94c54-dc5a-42a9-af57-ae7ada0b29fd)
+![Image](https://github.com/user-attachments/assets/e66f49f5-558c-4369-a3ae-1849e4decb08)
+
 
 ### Instalação
 ```bash
