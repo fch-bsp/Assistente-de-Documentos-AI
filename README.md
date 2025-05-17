@@ -67,8 +67,7 @@ O DocGenius é um assistente de IA que permite:
 ### Instalação
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/DocGenius.git
-
+git clone https://github.com/fch-bsp/Assistente-de-Documentos-AI.git
 # Acesse a pasta
 cd DocGenius
 
