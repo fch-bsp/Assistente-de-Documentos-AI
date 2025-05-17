@@ -1,0 +1,19 @@
+Passo - Passo MONTAR AMBIENTE 
+
+
+1. CRIAR AMBIENTE DE DESENVOLVIMENTO 
+python3 -m venv chatpdf
+
+2. HABILITA AMBINTE DE DESENVOLVIMENTO
+source chatpdf/bin/activate      
+
+2.1 ANALISAR O BIBLIOTECA DO AMBIENTE 
+pip list
+
+3. INSTALAÇÃO DAS BIBLIOTECAS PARA O PROJETO
+pip install -r requirements.txt      
+
+4 executar aplicação:
+ streamlit run app.py
+
+ 
